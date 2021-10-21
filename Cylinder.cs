@@ -1,6 +1,4 @@
 ﻿/*
- * I, David Jule, 00079459 certify that this material is my original work.  
- * No other person's work has been used without due acknowledgement.
  * 
  * Author: David Jule. 
  * Date Created: October 5th, 2021.
